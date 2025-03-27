@@ -52,6 +52,10 @@ Create a road network with SUMO and then working with it with TraCI as a Python 
 
 ## Features
 
+Road Network created using Netedit 1.2
+Add traffic flow in SUMO
+Using TraCI function to work with the flow, show the ave. waiting time on every edge
+
 ---
 
 ## Project Structure
